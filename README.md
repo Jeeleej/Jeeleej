@@ -57,6 +57,16 @@ class Jeel:
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Jeeleej/Jeeleej/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🧠 Data Science & ML Stack
 
 <div align="center">
@@ -105,6 +115,25 @@ A real-time vehicle detection, tracking, and counting system:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 Project1ML — AI Safety & Threat Detection Web App</b></summary>
+
+> **Python • Flask • Machine Learning • HTML • CSS • JavaScript**
+
+An AI-powered web application focused on safety monitoring and intelligent threat detection:
+
+* 🛡️ **AI Threat Detection** — analyze suspicious activity using ML models
+* 📊 **Real-Time Predictions** — instant detection results through a clean web interface
+* ⚡ **Interactive Dashboard** — user-friendly UI for monitoring alerts and outputs
+* 🧠 **Machine Learning Integration** — trained models for intelligent classification
+* 🌐 **Responsive Web Design** — accessible across desktop and mobile devices
+* 🚀 **Deployed on Vercel** — live production-ready deployment
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://safenix-ai.vercel.app/)
+![Python](https://img.shields.io/badge/Python-ML_Project-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
 </details>
 
@@ -162,16 +191,6 @@ A minimal note-taking web application built with Flask:
 
 </details>
 
-<details>
-<summary><b>🤖 Project1ML — Machine Learning Project</b></summary>
-
-> **Python • Machine Learning**
-
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeeleej/Project1ML)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
@@ -206,21 +225,32 @@ A minimal note-taking web application built with Flask:
 ## 📌 Pinned Repositories
 
 <div align="center">
-
-[![ComputerVision](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=ComputerVision&theme=tokyonight)](https://github.com/Jeeleej/ComputerVision)
-[![CHAT-APPLICATION](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=CHAT-APPLICATION&theme=tokyonight)](https://github.com/Jeeleej/CHAT-APPLICATION)
-
-[![FacultyManagementSystem_Java-GUI](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=FacultyManagementSystem_Java-GUI&theme=tokyonight)](https://github.com/Jeeleej/FacultyManagementSystem_Java-GUI)
-[![Sticky-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=Sticky-Notes&theme=tokyonight)](https://github.com/Jeeleej/Sticky-Notes)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Jeeleej/Jeeleej/output/github-contribution-grid-snake-dark.svg)
-
+<table>
+  <tr>
+    <td width="50%" align="left">
+      🛸 <b><a href="https://github.com/Jeeleej/ComputerVision">ComputerVision</a></b><br>
+      <i>Real-time Vehicle Detection & Counting System using YOLOv8 & SORT.</i><br><br>
+      🐍 Python • 👁️ OpenCV
+    </td>
+    <td width="50%" align="left">
+      💬 <b><a href="https://github.com/Jeeleej/CHAT-APPLICATION">CHAT-APPLICATION</a></b><br>
+      <i>Real-time WhatsApp-Style Chat Application using WebSockets.</i><br><br>
+      ⚡ Node.js • 🌐 WebSockets
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      🎓 <b><a href="https://github.com/Jeeleej/FacultyManagementSystem_Java-GUI">FacultyManagementSystem_Java-GUI</a></b><br>
+      <i>Java Swing desktop application for managing academic records.</i><br><br>
+      ☕ Java • 🪟 Swing GUI
+    </td>
+    <td width="50%" align="left">
+      📝 <b><a href="https://github.com/Jeeleej/Sticky-Notes">Sticky-Notes</a></b><br>
+      <i>Minimalist Markdown note-taking web application with Flask.</i><br><br>
+      🐍 Python • 🌶️ Flask
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
