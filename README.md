@@ -185,7 +185,11 @@ A minimal note-taking web application built with Flask:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeeleej&theme=tokyonight&hide_border=true)](https://github.com/platane/snk)
+<!-- Running Commit Streak Counter -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeeleej&theme=tokyonight&hide_border=true)](https://github.com/Jeeleej)
+
+<!-- Replaced with the active community-maintained Trophies API -->
+[![Jeel's Trophies](https://github-profile-trophies.vercel.app/?username=Jeeleej&theme=tokyonight)](https://github.com/Jeeleej)
 
 </div>
 
@@ -205,12 +209,11 @@ A minimal note-taking web application built with Flask:
 
 [![ComputerVision](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=ComputerVision&theme=tokyonight)](https://github.com/Jeeleej/ComputerVision)
 [![CHAT-APPLICATION](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=CHAT-APPLICATION&theme=tokyonight)](https://github.com/Jeeleej/CHAT-APPLICATION)
+
 [![FacultyManagementSystem_Java-GUI](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=FacultyManagementSystem_Java-GUI&theme=tokyonight)](https://github.com/Jeeleej/FacultyManagementSystem_Java-GUI)
 [![Sticky-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Jeeleej&repo=Sticky-Notes&theme=tokyonight)](https://github.com/Jeeleej/Sticky-Notes)
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
