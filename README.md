@@ -1,15 +1,5 @@
 <div align="center">
 
-```
- ██╗███████╗███████╗██╗     
- ██║██╔════╝██╔════╝██║     
- ██║█████╗  █████╗  ██║     
-██╗██║██╔══╝ ██╔══╝ ██║     
-╚████╔╝███████╗███████╗███████╗
- ╚═══╝ ╚══════╝╚══════╝╚══════╝
-```
-
-
 # 🚀 Vaghasiya Jeel
 
 ### 🤖 Data Science & ML Engineer • 👁️ Computer Vision • 🌐 Full Stack Developer
@@ -21,7 +11,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Engineer;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Always+Learning+%F0%9F%9A%80)
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Jeeleej&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" /> </div></div>
 </div>
 
 <div align="center">
