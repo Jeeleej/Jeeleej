@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🚀 Vaghasiya Jeel
-
-### 🤖 Data Science & ML Engineer • 👁️ Computer Vision • 🌐 Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Jeel%20Vaghasiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=🤖%20Data%20Science%20and%20ML%20Engineer%20%7C%20👁️%20Computer%20Vision%20%7C%20🌐%20Full%20Stack%20Developer&descAlignY=55&descColor=c7d2fe" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel-vaghasiya-01844828b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeeleej)
@@ -249,15 +247,12 @@ A minimal note-taking web application built with Flask:
 
 ## 📊 GitHub 3D Contribution Graph
 
-<div align="center>
+<div align="center">
  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeeleej&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeeleej&theme=github-compact&hide_border=true" />
-</p>
 
 </div>
 
@@ -301,5 +296,7 @@ A minimal note-taking web application built with Flask:
 ### 💡 *"Every line of code is a step toward solving something real."*
 
 ⭐ *If you find my projects useful, consider giving them a star!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 
 </div>
