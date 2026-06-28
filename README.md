@@ -290,9 +290,9 @@ A minimal note-taking web application built with Flask:
       🐍 Python • 👁️ OpenCV
     </td>
     <td width="50%" align="left">
-      💬 <b><a href="https://github.com/Jeeleej/CHAT-APPLICATION">CHAT-APPLICATION</a></b><br>
-      <i>Real-time WhatsApp-Style Chat Application using WebSockets.</i><br><br>
-      ⚡ Node.js • 🌐 WebSockets
+      🛍️ <b><a href="https://github.com/Jeeleej/Myntra_Review_Scrapper">Myntra_Review_Scrapper</a></b><br>
+      <i>Live Myntra product review scraper with MongoDB storage & Streamlit dashboard.</i><br><br>
+      🐍 Python • 📊 Streamlit • 🍃 MongoDB
     </td>
   </tr>
   <tr>
