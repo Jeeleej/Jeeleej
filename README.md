@@ -134,6 +134,27 @@ An AI-powered web application focused on safety monitoring and intelligent threa
 </details>
 
 <details>
+<summary><b>🛍️ Myntra_Review_Scrapper — Live Product Review Scraper & Dashboard</b></summary>
+
+> **Python • Streamlit • Selenium • MongoDB • Pandas**
+
+A live web scraping and market insights dashboard for Myntra product reviews:
+
+- 🔎 **Product Search** — search any product on Myntra with customizable sort options (Rating, Popularity, Price, Discount & more)
+- 📦 **Multi-Product Scraping** — scrape reviews across 1–8 products in a single run
+- 🗄️ **MongoDB Storage** — scraped reviews are automatically stored in the cloud via MongoIO
+- 📊 **Interactive DataFrame** — view all scraped review data in a clean, filterable Streamlit table
+- ⚡ **Session State Management** — retains last searched product and results across interactions
+- 🌐 **SEO-Optimized UI** — structured schema markup and wide-layout Streamlit app
+
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeeleej/Myntra_Review_Scrapper)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
 <summary><b>🌦️ WeatherAPI — Real-time Weather Forecast Web App</b></summary>
 
 > **HTML • CSS • JavaScript • Weather API • Vercel**
