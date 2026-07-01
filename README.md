@@ -271,7 +271,7 @@ A minimal note-taking web application built with Flask:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 📊 GitHub 3D Contribution Graph
+## 📊 GitHub Contribution Graph
 
 <div align="center">
  
