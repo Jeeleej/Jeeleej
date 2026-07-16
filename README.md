@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Jeeleej) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagha@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Engineer;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Engineer;MLOps+%7C+AWS+%7C+Docker+%7C+MLflow;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Python+%7C+FastAPI+%7C+TensorFlow+%7C+PyTorch;Always+Learning+%F0%9F%9A%80)
 
 </div>
 
